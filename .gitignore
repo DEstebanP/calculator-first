@@ -16,6 +16,10 @@
 .prettierignore
 
 # Other files
+<<<<<<< HEAD
 design/
+=======
+./design
+>>>>>>> a09d14d91fd3ac2b1873c6f90100a17184879537
 README-template.md
 style-guide.md
